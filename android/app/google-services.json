@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "162718246676",
+    "project_id": "unisec-384e9",
+    "storage_bucket": "unisec-384e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162718246676:android:26b9caf4771f562e2d4401",
+        "android_client_info": {
+          "package_name": "com.example.mastercoding"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162718246676-fe710e7nu4p71uqlo97mrou6ft8ugk6a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJIHtLZTBM9auxv2JPnu3WeEX4k1C7DG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162718246676-fe710e7nu4p71uqlo97mrou6ft8ugk6a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
